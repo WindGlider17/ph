@@ -1,13 +1,9 @@
-const URL_BASE = "https://www.pornhub.com";
-
+const URL_BASE = "https://www.pornhub.org";
 const PLATFORM_CLAIMTYPE = 3;
-
 const PLATFORM = "PornHub";
 
-var config = {};
-// session token
-var token = "";
-// headers (including cookie by default, since it's used for each session later)
+var config = {}; // session token
+var token = ""; // headers (including cookie by default, since it's used for each session later)
 var headers = {"Cookie": ""};
 
 /**
@@ -15,6 +11,7 @@ var headers = {"Cookie": ""};
  * @param {{[key: string]: any}} params Query params
  * @returns {String} Query string
  */
+
 function buildQuery(params) {
 	let query = "";
 	let first = true;
@@ -1050,6 +1047,7 @@ function parseDuration(durationStr) {
 
 	return 60 * mins + secs;
 }
+
 
 
 
