@@ -12,7 +12,7 @@
 	"scriptPublicKey": "",
 	"scriptSignature": "",
 
-	"iconUrl": "./pornhub.jpg",
+	"iconUrl": "./pornhub.png",
 	"id": "d766b84f-3155-45e3-b4f0-733a43eca656",
 	
 	"packages": ["Http", "DOMParser"],
@@ -24,6 +24,7 @@
 	]
 
 }
+
 
 
 
