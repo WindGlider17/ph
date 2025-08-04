@@ -4,8 +4,8 @@
 	"author": "mr. X",
 	"authorUrl": "",
 	
-	"sourceUrl": "https://raw.githubusercontent.com/WindGlider17/ph/refs/heads/main/MyPlugin.json",
-	"repositoryUrl": "",
+	"sourceUrl": "https://raw.githubusercontent.com/WindGlider17/ph/main/MyPlugin.json",
+	"repositoryUrl": "https://github.com/WindGlider17/ph/",
 	"scriptUrl": "./MyPlugin.js",
 	"version": 8,
 	
@@ -23,3 +23,4 @@
 	]
 
 }
+
